@@ -5,8 +5,6 @@ permalink: /experiences/
 author_profile: true
 ---
 
-<h1 id="journal">Journal papers</h1>
-
 <table style='font-size:90%;width:100%'>
   <style>
     table{
@@ -22,45 +20,43 @@ author_profile: true
     }
   </style>
   <tr>
-      <td width="23%"><center><img style="max-height:150px;" src="/images/journal/2022-NAVIGATION-decentralized-connectivity-maintenance.gif"/></center></td>
-      <td width="77%">Decentralized Connectivity Maintenance for Multi-robot Systems Under Motion and Sensing Uncertainties
-        <br />
-        <i>NAVIGATION: Journal of the Institute of Navigation</i>, Accepted.
-        <br />
-        <b>Akshay Shetty</b>, Timmy Hussain and Grace Gao <br />
-        <a href="https://arxiv.org/pdf/2110.06342.pdf" target="_blank" rel="noopener noreferrer">[paper]</a>
-        <a href="https://www.youtube.com/watch?v=SbE-ejQ_zm8" target="_blank" rel="noopener noreferrer">[video]</a>
+      <td width="15%"><center><img style="max-height:100px;" src="/images/experiences/stanford.png"/></center></td>
+      <td width="85%">
+      <p style="text-align:left;margin:0;padding:0;"><b>Postdoctoral Researcher</b><span style="float:right;">Stanford, CA</span></p>
+      <p style="text-align:left;margin:0;padding:0;"><a href="https://navlab.stanford.edu/" target="_blank" rel="noopener noreferrer">NAVLab</a>, Stanford University<span style="float:right;">September 2021-Present</span></p>
+      <ul style="margin-top:5px;">
+        <li>Worked on and supervised multiple projects related to safe navigation and robust state estimation for autonomous systems</li>
+      </ul>
       </td>
   </tr>
   <tr>
-      <td width="23%"><center><img style="max-height:110px;" src="/images/journal/2022-NAVIGATION-deep-gnss.PNG"/></center></td>
-      <td width="77%">Improving GNSS Positioning using Iterative Deep Corrections
-        <br />
-        <i>NAVIGATION: Journal of the Institute of Navigation</i>, Accepted.
-        <br />
-        Ashwin V. Kanhere*, Shubh Gupta*, <b>Akshay Shetty</b> and Grace Gao<br />
-        <a href="https://arxiv.org/pdf/2110.09581.pdf" target="_blank" rel="noopener noreferrer">[paper]</a>
-        <a href="https://github.com/Stanford-NavLab/deep_gnss" target="_blank" rel="noopener noreferrer">[code]</a>
+      <td width="15%"><center><img style="max-height:80px;" src="/images/experiences/nasa.png"/></center></td>
+      <td width="85%">
+      <p style="text-align:left;margin:0;padding:0;"><b>Research Intern</b><span style="float:right;">Mountain View, CA</span></p>
+      <p style="text-align:left;margin:0;padding:0;"><a href="https://www.nasa.gov/ames" target="_blank" rel="noopener noreferrer">NASA Ames Research Center</a><span style="float:right;">Summer 2016 & Summer 2017</span></p>
+      <ul style="margin-top:5px;">
+        <li>Mentored summer interns and developed software for autonomous vision-based UAV navigation <a href="https://youtu.be/1R8An5T2L9s" target="_blank" rel="noopener noreferrer">[video]</a><a href="https://github.com/abencomo/AutonomousFlight" target="_blank" rel="noopener noreferrer">[code]</a></li>
+      </ul>
       </td>
   </tr>
   <tr>
-      <td width="23%"><center><img style="max-height:130px;" src="/images/journal/2020-ITS-predicting-state-uncertainty.png"/></center></td>
-      <td width="77%">Predicting State Uncertainty Bounds Using Non-linear Stochastic Reachability Analysis for Urban GNSS-based UAS Navigation
-        <br />
-        <i>IEEE Intelligent Transportation Systems</i>, November 2020.
-        <br />
-        <b>Akshay Shetty</b> and Grace Gao<br />
-        <a href="https://drive.google.com/file/d/1e0o4saffuQO98UIZZUQGoQV0ZaEuiQi2/view?usp=sharing" target="_blank" rel="noopener noreferrer">[paper]</a>
+      <td width="15%"><center><img style="max-height:80px;" src="/images/experiences/cranfield.jpg"/></center></td>
+      <td width="85%">
+      <p style="text-align:left;margin:0;padding:0;"><b>Visiting Research Student</b><span style="float:right;">Shrivenham, UK</span></p>
+      <p style="text-align:left;margin:0;padding:0;"><a href="https://www.cranfield.ac.uk/" target="_blank" rel="noopener noreferrer">Cranfield University</a><span style="float:right;">Summer 2013</span></p>
+      <ul style="margin-top:5px;">
+        <li>Improved vehicle dynamics in Virtual Battle Space by interfacing with IPG Carmaker software</li>
+      </ul>
       </td>
   </tr>
   <tr>
-      <td width="23%"><center><img style="max-height:130px;" src="/images/journal/2019-NAVIGATION-adaptive-covariance.gif"/></center></td>
-      <td width="77%">Adaptive Covariance Estimation of LiDAR-based Positioning Errors for UAVs
-        <br />
-        <i>NAVIGATION: Journal of the Institute of Navigation</i>, May 2019.
-        <br />
-        <b>Akshay Shetty</b> and Grace Gao<br />
-        <a href="https://drive.google.com/file/d/13VALMwINtvU6fXUJ6gKko-JMZUDg07PT/view?usp=sharing" target="_blank" rel="noopener noreferrer">[paper]</a>
+      <td width="15%"><center><img style="max-height:80px;" src="/images/experiences/isro.png"/></center></td>
+      <td width="85%">
+      <p style="text-align:left;margin:0;padding:0;"><b>Research Intern</b><span style="float:right;">Bangalore, India</span></p>
+      <p style="text-align:left;margin:0;padding:0;"><a href="https://www.isro.gov.in/about-isro/u-r-rao-satellite-centre-ursc" target="_blank" rel="noopener noreferrer">Indian Space Research Organization (ISRO)</a><span style="float:right;">Summer 2012</span></p>
+      <ul style="margin-top:5px;">
+        <li>Evaluated receiver localization algorithms for the Indian Regional Navigation Satellite System</li>
+      </ul>
       </td>
   </tr>
 </table>
