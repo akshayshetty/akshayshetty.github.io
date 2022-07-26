@@ -35,7 +35,9 @@ author_profile: true
       <p style="text-align:left;margin:0;padding:0;"><b>Research Intern</b><span style="float:right;">Mountain View, CA</span></p>
       <p style="text-align:left;margin:0;padding:0;"><a href="https://www.nasa.gov/ames" target="_blank" rel="noopener noreferrer">NASA Ames Research Center</a><span style="float:right;">Summer 2016 & Summer 2017</span></p>
       <ul style="margin-top:5px;">
-        <li>Mentored summer interns and developed software for autonomous vision-based UAV navigation <a href="https://youtu.be/1R8An5T2L9s" target="_blank" rel="noopener noreferrer">[video]</a><a href="https://github.com/abencomo/AutonomousFlight" target="_blank" rel="noopener noreferrer">[code]</a></li>
+        <li>Mentored summer interns and developed software for autonomous vision-based UAV navigation
+        <br />
+        <a href="https://youtu.be/1R8An5T2L9s" target="_blank" rel="noopener noreferrer">[video]</a><a href="https://github.com/abencomo/AutonomousFlight" target="_blank" rel="noopener noreferrer">[code]</a></li>
       </ul>
       </td>
   </tr>
