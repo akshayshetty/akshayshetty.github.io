@@ -170,7 +170,7 @@ author_profile: true
       </td>
   </tr>
   <tr>
-      <td width="23%"><center><img style="height:110px;" src="/images/conference/2019-ICRA-uav-pose-estimation.png"/></center></td>
+      <td width="23%"><center><img style="height:110px;" src="/images/conference/2019-ICRA-uav-pose-estimation.PNG"/></center></td>
       <td width="77%">UAV Pose Estimation using Cross-view Geolocalization with Satellite Imagery
         <br />
         <i>International Conference on Robotics and Automation (ICRA)</i>, May 2019.
