@@ -47,7 +47,7 @@ author_profile: true
       <p style="text-align:left;margin:0;padding:0;"><b>Visiting Research Student</b><span style="float:right;">Shrivenham, UK</span></p>
       <p style="text-align:left;margin:0;padding:0;"><a href="https://www.cranfield.ac.uk/" target="_blank" rel="noopener noreferrer">Cranfield University</a><span style="float:right;">Summer 2013</span></p>
       <ul style="margin-top:5px;">
-        <li>Improved vehicle dynamics in Virtual Battle Space by interfacing with IPG Carmaker software</li>
+        <li>Improved vehicle dynamics in <a href="https://bisimulations.com/products/vbs3" target="_blank" rel="noopener noreferrer">Virtual Battle Space</a> by interfacing with <a href="https://ipg-automotive.com/en/products-solutions/software/carmaker/" target="_blank" rel="noopener noreferrer">IPG Carmaker</a></li>
       </ul>
       </td>
   </tr>
@@ -57,7 +57,7 @@ author_profile: true
       <p style="text-align:left;margin:0;padding:0;"><b>Research Intern</b><span style="float:right;">Bangalore, India</span></p>
       <p style="text-align:left;margin:0;padding:0;"><a href="https://www.isro.gov.in/about-isro/u-r-rao-satellite-centre-ursc" target="_blank" rel="noopener noreferrer">Indian Space Research Organization (ISRO)</a><span style="float:right;">Summer 2012</span></p>
       <ul style="margin-top:5px;">
-        <li>Evaluated receiver localization algorithms for the Indian Regional Navigation Satellite System</li>
+        <li>Evaluated receiver localization algorithms for the <a href="https://www.isro.gov.in/irnss-programme" target="_blank" rel="noopener noreferrer">Indian Regional Navigation Satellite System</a></li>
       </ul>
       </td>
   </tr>
