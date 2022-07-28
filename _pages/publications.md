@@ -84,7 +84,7 @@ author_profile: true
     border:1px solid #ffffff;
     }
   </style>
-  <tr>
+  <!-- <tr>
       <td width="23%"><center><img style="max-height:130px;" src="/images/conference/2022-CoRL-safeguarding-learning-based-planners.gif"/></center></td>
       <td width="77%">Safeguarding Learning-Based Planners Under Motion and Sensing Uncertainties Using Reachability Analysis
         <br />
@@ -93,7 +93,7 @@ author_profile: true
         <b>Akshay Shetty</b>, Adam Dai, Alexandros Tzikas and Grace Gao <br />
         <a href="https://drive.google.com/file/d/14iCTmH9DaLMyc1mXgiHfMKL-UHPz39Md/view?usp=sharing" target="_blank" rel="noopener noreferrer">[paper]</a>
       </td>
-  </tr>
+  </tr> -->
   <tr>
       <td width="23%"><center><img style="max-height:80px;" src="/images/conference/2022-GNSS-designing-deep-neural-networks.png"/></center></td>
       <td width="77%">Designing Deep Neural Networks for Sequential GNSS Positioning
