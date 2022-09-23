@@ -92,6 +92,7 @@ author_profile: true
         <br />
         <b>Akshay Shetty</b>, Adam Dai, Alexandros Tzikas and Grace Gao <br />
         <a href="https://drive.google.com/file/d/1nUy85KAPGuyS12BPPwr6f4EkbrU95JsG/view?usp=sharing" target="_blank" rel="noopener noreferrer">[paper]</a>
+        <a href="https://youtu.be/F-Pmjba0cTE">[video]</a> 
       </td>
   </tr>
   <tr>
