@@ -96,30 +96,39 @@ author_profile: true
       </td>
   </tr>
   <tr>
-      <td width="23%"><center><img style="max-height:80px;" src="/images/conference/2022-GNSS-designing-deep-neural-networks.png"/></center></td>
+      <td width="23%"><center><img style="max-height:80px;" src="/images/conference/2022-GNSS-designing-deep-neural-networks-1.PNG"/></center></td>
       <td width="77%">Designing Deep Neural Networks for Sequential GNSS Positioning
         <br />
-        <i>International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+)</i>, Accepted.
+        <i>International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+)</i>, September 2022. <b>Best Presentation of the Session Award</b>.
         <br />
         Shubh Gupta*, Ashwin V. Kanhere*, <b>Akshay Shetty</b> and Grace Gao <br />
+        <a href="https://drive.google.com/file/d/1GTRC2VWQls5JE2bm1FeDSx3_pMIH0r00/view" target="_blank" rel="noopener noreferrer">[paper]</a>
+        <a href="https://drive.google.com/file/d/1SHbwk-A81DC4IHPj7ryEIFTlVauHzxKF/view?usp=sharing" target="_blank" rel="noopener noreferrer">[slides]</a>
+        <a href="https://youtu.be/SDEvVO65pkI">[video]</a>
       </td>
   </tr>
   <tr>
-      <td width="23%"><center><img style="max-height:80px;" src="/images/conference/2022-GNSS-gps-spoofing-resilient.png"/></center></td>
+      <td width="23%"><center><img style="max-height:80px;" src="/images/conference/2022-GNSS-gps-spoofing-resilient-1.PNG"/></center></td>
       <td width="77%">GPS Spoofing-Resilient Filtering with Chimera and Self-Contained Odometry
         <br />
-        <i>International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+)</i>, Accepted.
+        <i>International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+)</i>, September 2022.
         <br />
         Tara Mina, Ashwin V. Kanhere, <b>Akshay Shetty</b> and Grace Gao <br />
+        <a href="https://drive.google.com/file/d/10rHeuCt7d-aUCQjwmMX_oKI6tzBGOQQq/view?usp=sharing" target="_blank" rel="noopener noreferrer">[paper]</a>
+        <a href="https://drive.google.com/file/d/11qtuLh87GbiBSODYLe_cGGMT5yiPxNVh/view?usp=sharing" target="_blank" rel="noopener noreferrer">[slides]</a>
+        <a href="https://youtu.be/9iCbWHdNeDI">[video]</a>
       </td>
   </tr>
   <tr>
-      <td width="23%"><center><img style="max-height:80px;" src="/images/conference/2022-GNSS-factor-graph-based-spoofing.png"/></center></td>
+      <td width="23%"><center><img style="max-height:80px;" src="/images/conference/2022-GNSS-factor-graph-based-spoofing-1.PNG"/></center></td>
       <td width="77%">Factor Graph-based Spoofing Mitigation Using the Chimera Signal Enhancement
         <br />
-        <i>International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+)</i>, Accepted.
+        <i>International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+)</i>, September 2022.
         <br />
         Ashwin V. Kanhere, Tara Mina, <b>Akshay Shetty</b> and Grace Gao <br />
+        <a href="https://drive.google.com/file/d/15k3D1hEGes1ApVnlkUHpGhn2j4vqms6u/view?usp=sharing" target="_blank" rel="noopener noreferrer">[paper]</a>
+        <a href="https://docs.google.com/presentation/d/1SNxsJftEl-uvNdosVkWjO2SlJjAnwlQO/edit?usp=sharing&ouid=104434248614201833741&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">[slides]</a>
+        <a href="https://youtu.be/vdwn41A9Ndo">[video]</a>
       </td>
   </tr>
   <tr>
