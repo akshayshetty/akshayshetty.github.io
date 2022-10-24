@@ -108,7 +108,7 @@ author_profile: true
       </td>
   </tr>
   <tr>
-      <td width="23%"><center><img style="max-height:80px;" src="/images/conference/2022-GNSS-gps-spoofing-resilient-1.PNG"/></center></td>
+      <td width="23%"><center><img style="max-height:80px;" src="/images/conference/2022-GNSS-gps-spoofing-resilient-1.png"/></center></td>
       <td width="77%">GPS Spoofing-Resilient Filtering with Chimera and Self-Contained Odometry
         <br />
         <i>International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+)</i>, September 2022.
