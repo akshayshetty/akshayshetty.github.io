@@ -23,9 +23,9 @@ author_profile: true
       <td width="15%"><center><img style="max-height:100px;" src="/images/experiences/stanford.png"/></center></td>
       <td width="85%">
       <p style="text-align:left;margin:0;padding:0;"><b>Postdoctoral Researcher</b><span style="float:right;">Stanford, CA</span></p>
-      <p style="text-align:left;margin:0;padding:0;"><a href="https://navlab.stanford.edu/" target="_blank" rel="noopener noreferrer">NAVLab</a>, Stanford University<span style="float:right;">September 2021-Present</span></p>
+      <p style="text-align:left;margin:0;padding:0;"><a href="https://navlab.stanford.edu/" target="_blank" rel="noopener noreferrer">NAVLab</a>, Stanford University<span style="float:right;">2021-2022</span></p>
       <ul style="margin-top:5px;">
-        <li>Leading and supervising multiple projects related to safe navigation and robust state estimation for autonomous systems</li>
+        <li>Led and supervised multiple projects related to safe navigation and robust state estimation for autonomous robotic systems</li>
       </ul>
       </td>
   </tr>
