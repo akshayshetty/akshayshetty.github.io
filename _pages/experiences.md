@@ -66,7 +66,7 @@ author_profile: true
       <p style="text-align:left;margin:0;padding:0;"><b>Research Intern</b><span style="float:right;">Bangalore, India</span></p>
       <p style="text-align:left;margin:0;padding:0;"><a href="https://www.isro.gov.in/about-isro/u-r-rao-satellite-centre-ursc" target="_blank" rel="noopener noreferrer">Indian Space Research Organization (ISRO)</a><span style="float:right;">Summer 2012</span></p>
       <ul style="margin-top:5px;">
-        <li>Evaluated the performance of various receiver localization algorithms for the <a href="https://www.isro.gov.in/irnss-programme" target="_blank" rel="noopener noreferrer">Indian Regional Navigation Satellite System</a></li>
+        <li>Evaluated various existing localization algorithms for the then upcoming <a href="https://www.isro.gov.in/irnss-programme" target="_blank" rel="noopener noreferrer">Indian Regional Navigation Satellite System</a></li>
       </ul>
       </td>
   </tr>
