@@ -24,13 +24,23 @@ author_profile: true
     }
   </style>
   <tr>
+      <td width="23%"><center><img style="max-height:80px;" src="/images/conference/2022-GNSS-gps-spoofing-resilient-1.png"/></center></td>
+      <td width="77%">GPS Spoofing-Resilient Filtering with Chimera and Self-Contained Odometry
+        <br />
+        <i>NAVIGATION: Journal of the Institute of Navigation</i>, Submitted.
+        <br />
+        Tara Mina, Ashwin V. Kanhere, <b>Akshay Shetty</b> and Grace Gao <br />
+        <a href="https://drive.google.com/file/d/1ZHbZNZeNLVfKZ47SiwVEFpDab28yW7BH/view" target="_blank" rel="noopener noreferrer">[paper]</a>
+      </td>
+  </tr>
+  <tr>
       <td width="23%"><center><img style="max-height:150px;" src="/images/journal/2022-NAVIGATION-decentralized-connectivity-maintenance.gif"/></center></td>
       <td width="77%">Decentralized Connectivity Maintenance for Multi-robot Systems Under Motion and Sensing Uncertainties
         <br />
-        <i>NAVIGATION: Journal of the Institute of Navigation</i>, Accepted.
+        <i>NAVIGATION: Journal of the Institute of Navigation</i>, March 2023.
         <br />
         <b>Akshay Shetty</b>, Timmy Hussain and Grace Gao <br />
-        <a href="https://arxiv.org/pdf/2110.06342.pdf" target="_blank" rel="noopener noreferrer">[paper]</a>
+        <a href="https://navi.ion.org/content/navi/70/1/navi.552.full.pdf" target="_blank" rel="noopener noreferrer">[paper]</a>
         <a href="https://www.youtube.com/watch?v=SbE-ejQ_zm8" target="_blank" rel="noopener noreferrer">[video]</a>
       </td>
   </tr>
@@ -38,10 +48,10 @@ author_profile: true
       <td width="23%"><center><img style="max-height:110px;" src="/images/journal/2022-NAVIGATION-deep-gnss.PNG"/></center></td>
       <td width="77%">Improving GNSS Positioning using Iterative Deep Corrections
         <br />
-        <i>NAVIGATION: Journal of the Institute of Navigation</i>, Accepted.
+        <i>NAVIGATION: Journal of the Institute of Navigation</i>, December 2022.
         <br />
         Ashwin V. Kanhere*, Shubh Gupta*, <b>Akshay Shetty</b> and Grace Gao<br />
-        <a href="https://arxiv.org/pdf/2110.09581.pdf" target="_blank" rel="noopener noreferrer">[paper]</a>
+        <a href="https://navi.ion.org/content/navi/69/4/navi.548.full.pdf" target="_blank" rel="noopener noreferrer">[paper]</a>
         <a href="https://github.com/Stanford-NavLab/deep_gnss" target="_blank" rel="noopener noreferrer">[code]</a>
       </td>
   </tr>
@@ -88,7 +98,7 @@ author_profile: true
       <td width="23%"><center><img style="max-height:130px;" src="/images/conference/2023-ICRA-safeguarding-learning-based-planners.gif"/></center></td>
       <td width="77%">Safeguarding Learning-Based Planners Under Motion and Sensing Uncertainties Using Reachability Analysis
         <br />
-        <i>International Conference on Robotics and Automation (ICRA)</i>, Accepted.
+        <i>International Conference on Robotics and Automation (ICRA)</i>, May 2023.
         <br />
         <b>Akshay Shetty</b>, Adam Dai, Alexandros Tzikas and Grace Gao <br />
         <a href="https://drive.google.com/file/d/1nUy85KAPGuyS12BPPwr6f4EkbrU95JsG/view?usp=sharing" target="_blank" rel="noopener noreferrer">[paper]</a>

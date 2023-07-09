@@ -20,6 +20,16 @@ author_profile: true
     }
   </style>
   <tr>
+      <td width="15%"><center><img style="max-height:100px;" src="/images/experiences/supernal.jpg"/></center></td>
+      <td width="85%">
+      <p style="text-align:left;margin:0;padding:0;"><b>Senior Autonomy Navigation Engineer</b><span style="float:right;">Fremont, CA</span></p>
+      <p style="text-align:left;margin:0;padding:0;"><a href="https://supernal.aero/" target="_blank" rel="noopener noreferrer">Supernal</a><span style="float:right;">2023-Present</span></p>
+      <ul style="margin-top:5px;">
+        <li>Designing and developing safe and certifiable navigation solutions for autonomous flying vehicles</li>
+      </ul>
+      </td>
+  </tr>
+  <tr>
       <td width="15%"><center><img style="max-height:100px;" src="/images/experiences/stanford.png"/></center></td>
       <td width="85%">
       <p style="text-align:left;margin:0;padding:0;"><b>Postdoctoral Researcher</b><span style="float:right;">Stanford, CA</span></p>
