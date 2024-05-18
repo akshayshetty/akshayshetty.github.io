@@ -4,8 +4,6 @@ layout: archive
 permalink: /publications/
 author_profile: true
 ---
-<font size="3"><sup>*</sup> Equal authorship</font>
-
 
 <h1 id="journal">Journal papers</h1>
 
@@ -27,10 +25,11 @@ author_profile: true
       <td width="23%"><center><img style="max-height:80px;" src="/images/conference/2022-GNSS-gps-spoofing-resilient-1.png"/></center></td>
       <td width="77%">GPS Spoofing-Resilient Filtering with Chimera and Self-Contained Odometry
         <br />
-        <i>NAVIGATION: Journal of the Institute of Navigation</i>, Submitted.
+        <i>NAVIGATION: Journal of the Institute of Navigation</i>, June 2024.
         <br />
         Tara Mina, Ashwin V. Kanhere, <b>Akshay Shetty</b> and Grace Gao <br />
-        <a href="https://drive.google.com/file/d/1ZHbZNZeNLVfKZ47SiwVEFpDab28yW7BH/view" target="_blank" rel="noopener noreferrer">[paper]</a>
+        <a href="https://navi.ion.org/content/navi/71/2/navi.636.full.pdf" target="_blank" rel="noopener noreferrer">[paper]</a>
+        <a href="https://www.youtube.com/watch?v=9iCbWHdNeDI" target="_blank" rel="noopener noreferrer">[video]</a>
       </td>
   </tr>
   <tr>
@@ -262,3 +261,4 @@ author_profile: true
       </td>
   </tr>
 </table>
+<font size="3"><sup>*</sup> Equal authorship</font>
